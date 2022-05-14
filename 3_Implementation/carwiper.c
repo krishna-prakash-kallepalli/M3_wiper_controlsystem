@@ -1,13 +1,4 @@
-/**
- * @file carwiper.c
- * @author Stephen J
- * @brief car wiper control
- * @version 0.1
- * @date 2022-05-09
- * 
- * @copyright Copyright (c) 2022
- * 
- */
+
 
 #include "MyStm32f407xx.h"
 #include <stdint.h>
